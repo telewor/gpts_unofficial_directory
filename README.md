@@ -7,4 +7,4 @@ GPTs非公式ディレクトリはOpenAIが提供するChatGPTの機能である
 また、Xでの拡散も良いGPTs登録につながるため、運営行為の一つですので、是非それぞれの方法で参加してください。
 
 ## License
-Copyright (c) 2019-present テレワークテクノロジーズ株式会社. 
+Copyright (c) 2023-present テレワークテクノロジーズ株式会社. 
