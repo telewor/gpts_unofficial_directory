@@ -18,6 +18,12 @@
         "url": "https://chat.openai.com/g/g-FFiDHK6AF-matutinguapurihui-hua-simiyureta"
     },
     {
+        "name": "OchyAI",
+        "detail": "Conveying Ochiai's Art, Research, and Philosophy by OcyAI",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-zprRltiOf-ochyai"
+    },
+    {
         "name": "ビットコインのホワイトペーパー解説GPTs",
         "detail": "Bitcoin: A Peer-to-Peer Electronic Cash Systemの解説",
         "category": "解説",
@@ -42,16 +48,16 @@
         "url": "https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict"
     },
     {
-        "name": "臨床心理士の対話型夢分析Dream Analyst",
-        "detail": "夢分析は、夢の詳細を一つずつ確認しながら、意味を深く探究する分析ツールです。",
-        "category": "占い・診断",
-        "url": "https://chat.openai.com/g/g-Huf4BIzQG"
-    },
-    {
         "name": "Ennative: 添削付き英会話",
         "detail": "英語で話しかけてください。あなたの英文を評価し、フィードバックします。",
         "category": "教育",
         "url": "https://chat.openai.com/g/g-w7uyap0Bp-ennative-tian-xue-fu-kiying-hui-hua"
+    },
+    {
+        "name": "YourBestGPTs",
+        "detail": "Explore over 250 GPTs to find your perfect match!",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-0UqTHr5Ol-yourbestgpts"
     },
     {
         "name": "「それ本当は他人に任せられるんじゃないのbot」",
@@ -84,6 +90,12 @@
         "url": "https://chat.openai.com/g/g-DpcxPZOvY-si-li-gptbei-gao-xiao"
     },
     {
+        "name": "Discussion Dynamo",
+        "detail": "トークテーマに対してブレインストーミングを行います。",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-tvtM1UgQo-discussion-dynamo"
+    },
+    {
         "name": "English Reading Tutor",
         "detail": "I guide you through English quizzes!",
         "category": "教育",
@@ -94,7 +106,14 @@
         "detail": "Web記事のOGP画像（アイキャッチ画像）を生成します。",
         "category": "制作",
         "url": "https://chat.openai.com/g/g-jf0AlZBpL-ji-shi-ogpmeka"
-    },    {
+    },
+    {
+        "name": "臨床心理士の対話型夢分析Dream Analyst",
+        "detail": "夢分析は、夢の詳細を一つずつ確認しながら、意味を深く探究する分析ツールです。",
+        "category": "占い・診断",
+        "url": "https://chat.openai.com/g/g-Huf4BIzQG"
+    },
+    {
         "name": "楽々注文GPT",
         "detail": "Scans a text-only foreign language menu and generates its translation and photos of the dishes.",
         "category": "便利",
@@ -171,5 +190,167 @@
         "detail": "A detailed analysis tool capable of generating images after analysis.",
         "category": "制作",
         "url": "https://chat.openai.com/g/g-rjaoHsoEK-hua-xiang-tagunoquan"
+    },
+    {
+        "name": "LP Wizard",
+        "detail": "Assists in creating landing pages using HTML, CSS, and JavaScript.",
+        "category": "制作",
+        "url": "https://chat.openai.com/g/g-bjIRYGrAM-lp-wizard"
+    },
+    {
+        "name": "VTuberの敏腕マネージャー AI",
+        "detail": "あなたの活動を応援する、支援する、あなたのパートナーAIです。VTuberとしてチャンネル登録やフォロワーを増やすため、二人三脚でがんばりましょう！",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-lDhYToLlC-vtubernomin-wan-maneziya-ai"
+    },
+    {
+        "name": "受験に勝つ！本日の「勝ち飯」献立bot",
+        "detail": "受験生の栄養バランスを考えて1日の献立を提供します。 心理学、脳科学の専門知識を活用した健康管理、集中力向上のアドバイスや豆知識などもお伝えします。",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-7zIVjA1TO-today-s-winning-rice-menu-bot"
+    },
+    {
+        "name": "美容家ちゃん",
+        "detail": "美容専門のチャットボットです。メイクアップ、スキンケア、ヘアケアなどあらゆる美容の悩みを解決できます。",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-dNbVk0PzS-mei-rong-jia-tiyan"
+    },
+    {
+        "name": "Django Guide",
+        "detail": "Django の質問について公式ドキュメント/source code から回答します。わからないものは web から検索し、それに基づいた内容を回答します。",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-yrLaY9zSk-django-guide"
+    },
+    {
+        "name": "計算問題GPT",
+        "detail": "足し算と引き算の問題を出題し、１０問正解するとお祝いの画像を生成するよ。",
+        "category": "こども用",
+        "url": "https://chat.openai.com/g/g-JIXpEc0dt-ji-suan-wen-ti-gpt"
+    },
+    {
+        "name": "日英自動翻訳GPT",
+        "detail": "翻訳したい文章を入力すると日本語か英語かを判別し、翻訳後の文章のみを出力します。",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-ozNsN1bG4-ri-ying-zi-dong-fan-yi-gpt"
+    },
+    {
+        "name": "おはなしメーカー",
+        "detail": "おなまえと、すきなどうぶつやのりものをおしえてね。おはなしを、つくるよ！",
+        "category": "こども用",
+        "url": "https://chat.openai.com/g/g-cBPhicut0-ohanasimeka"
+    },
+    {
+        "name": "哲学による人生解決",
+        "detail": "哲学の名言でアナタを導きます。",
+        "category": "メンタルケア",
+        "url": "https://chat.openai.com/g/g-HQ0LPkgM1-zhe-xue-niyoruren-sheng-jie-jue"
+    },
+    {
+        "name": "関西弁チャット",
+        "detail": "関西弁でいろいろな質問に応答する、人懐っこいチャットボット。",
+        "category": "bot",
+        "url": "https://chat.openai.com/g/g-efZXhRL59-guan-xi-bian-tiyatuto"
+    },
+    {
+        "name": "旅のストリーテラー",
+        "detail": "あなたの旅の経験をストーリーにしましょう",
+        "category": "ゲーム",
+        "url": "https://chat.openai.com/g/g-2Hwo4uO8M-lu-nosutoritera"
+    },
+    {
+        "name": "ただのオッサンが全力で問題解決‼",
+        "detail": "アナタの抱える問題解決に向けて播州弁でアドバイスします‼",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-KSgOq7Ymv-tadanootusangaquan-li-dewen-ti-jie-jue"
+    },
+    {
+        "name": "Chat転生",
+        "detail": "死んだはずの幼馴染が異世界で勇者になっていた件",
+        "category": "ゲーム",
+        "url": "https://chat.openai.com/g/g-LRPcOO46s-chatzhuan-sheng"
+    },
+    {
+        "name": "Paper Interpreter",
+        "detail": "論文のPDFをアップロードしてください",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-hxDOCBQrs-paper-interpreter"
+    },
+    {
+        "name": "ウォズ",
+        "detail": "記事を要約して、要点をまとめ、見解を述べてくれるおじさん博士",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-qC7nu5CLR-uozu"
+    },
+    {
+        "name": "春霞つくし-心の友",
+        "detail": "心の友、春霞つくしをつくりました！ あなたの愚痴をただ聞いてくれます。 ネガティブな思いを受け止めてほしいときに。 心理学のメソッドを参考に作りました。",
+        "category": "メンタルケア",
+        "url": "https://chat.openai.com/g/g-l1cAnHy7S-chun-xia-tukusi-tsukushi-harugasumi"
+    },
+    {
+        "name": "Monaca Creative Helper",
+        "detail": "Monacaを使用したアプリケーション開発の手助けをしてくれます。",
+        "category": "制作",
+        "url": "https://chat.openai.com/g/g-W7N43QhIt-monaca-creative-helper"
+    },
+    {
+        "name": "Patent Idea Illuminator",
+        "detail": "特許の検討をサポートします",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-Qh5S5ISyu-patent-idea-illuminator"
+    },
+    {
+        "name": "Snow Scout",
+        "detail": "日本のゲレンデ状況を調べます",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-ulA8eAqEk-snow-scout"
+    },
+    {
+        "name": "Unity Coder",
+        "detail": "要求した仕様のサンプルコードを出力します",
+        "category": "制作",
+        "url": "https://chat.openai.com/g/g-aTPjRPTUP-unity-coder"
+    },
+    {
+        "name": "おでかけGPT",
+        "detail": "行動エリアに基づいた休日のおでかけ情報を提案します",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-cUHHhwq6J-odekake-gpt"
+    },
+    {
+        "name": "中小企業向け補助金検索 by プラネット行政書士事務所",
+        "detail": "中小企業向け補助金の検索をお手伝いします。補助金を活用して事業成長を目指しましょう！",
+        "category": "ビジネス",
+        "url": "https://chat.openai.com/g/g-rUWyCfXVl-zhong-xiao-qi-ye-xiang-kebu-zhu-jin-jian-suo-by-puranetutoxing-zheng-shu-shi-shi-wu-suo"
+    },
+    {
+        "name": "メルカリ出品文を書くやつ",
+        "detail": "出品したいものや写真をUPすれば、出品文を書いてくれるやつです",
+        "category": "制作",
+        "url": "https://chat.openai.com/g/g-bWrXpwR7a-merukarichu-pin-wen-woshu-kuyatu"
+    },
+    {
+        "name": "塗り絵つくーる（こども用）",
+        "detail": "テーマを入力するとシンプルな塗り絵画像を作成します。",
+        "category": "こども用",
+        "url": "https://chat.openai.com/g/g-7qWdm0Qtx-tu-rihui-tukuru-kodomoyong"
+    },
+    {
+        "name": "単純に煽るじじい",
+        "detail": "人気LINEスタンプ単純に煽るじじいの公式ボット",
+        "category": "bot",
+        "url": "https://chat.openai.com/g/g-npCjBTYAe-dan-chun-nishan-ruzizii"
+    },
+    {
+        "name": "独学者向け学習ガイド",
+        "detail": "目標設定を伝えると、それに合わせた学習をサポートしてくれます。",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-m83zZskyp-du-xue-zhe-xiang-kexue-xi-gaido"
+    },
+    {
+        "name": "📅 Schedule Companion | ゆみちゃん",
+        "detail": "Paste messages! Personal assistant for managing/planning schedules and tasks with Google Calendar",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-lmb6WNkvk-schedule-companion-yumitiyan"
     }
 ]
