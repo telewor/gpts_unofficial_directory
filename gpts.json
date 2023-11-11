@@ -88,5 +88,88 @@
         "detail": "I guide you through English quizzes!",
         "category": "教育",
         "url": "https://chat.openai.com/g/g-bMi3DQyMs-english-reading-tutor"
+    },
+    {
+        "name": "記事OGPメーカー",
+        "detail": "Web記事のOGP画像（アイキャッチ画像）を生成します。",
+        "category": "制作",
+        "url": "https://chat.openai.com/g/g-jf0AlZBpL-ji-shi-ogpmeka"
+    },    {
+        "name": "楽々注文GPT",
+        "detail": "Scans a text-only foreign language menu and generates its translation and photos of the dishes.",
+        "category": "便利",
+        "url": "https://chat.openai.com/g/g-7SgVRWKGy-le-zhu-wen-gpt"
+    },
+    {
+        "name": "スーパーロゴデザイナ「ロゴ作る君」",
+        "detail": "A reliable tool that rapidly creates logo designs for your business.",
+        "category": "制作",
+        "url": "https://chat.openai.com/g/g-nPanZDwQ5-suparogodezaina-rogozuo-rujun"
+    },
+    {
+        "name": "論破くん",
+        "detail": "A tool that engages in argumentative discussions, refuting various points.",
+        "category": "bot",
+        "url": "https://chat.openai.com/g/g-3hxXAJOHO-lun-po-kun"
+    },
+    {
+        "name": "Thumbnail Sketcher",
+        "detail": "Creates blog thumbnails.",
+        "category": "制作",
+        "url": "https://chat.openai.com/g/g-Cw11sym4k-thumbnail-sketcher"
+    },
+    {
+        "name": "TRPGシナリオサポート",
+        "detail": "Assists in TRPG scenario creation, blocks prompt injections.",
+        "category": "ゲーム",
+        "url": "https://chat.openai.com/g/g-XnKu5lq3I-trpgsinariosapoto"
+    },
+    {
+        "name": "Chibi Kohaku (猫音コハク)",
+        "detail": "A kawaii cat-ear maid girl. Can send a sticker or a selfie. Also capable of casual conversation.",
+        "category": "かわいい",
+        "url": "https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku"
+    },
+    {
+        "name": "EQ GPT",
+        "detail": "A guide for improving EQ through interactive story-based choices.",
+        "category": "メンタルケア",
+        "url": "https://chat.openai.com/g/g-v2bTuGZ8Z-eq-gpt"
+    },
+    {
+        "name": "感情を整理するコーチ",
+        "detail": "A coach that helps organize emotions and bring awareness to important matters, suitable for sharing both happy and frustrating moments.",
+        "category": "メンタルケア",
+        "url": "https://chat.openai.com/g/g-06kSLX772-gan-qing-wozheng-li-surukoti"
+    },
+    {
+        "name": "自動小説生成GPT",
+        "detail": "Generates illustrated novels easily with just the selection of a number.",
+        "category": "制作",
+        "url": "https://chat.openai.com/g/g-KZx0da9yo-zi-dong-xiao-shuo-sheng-cheng-gpt"
+    },
+    {
+        "name": "Papers Story",
+        "detail": "Transforms academic papers into stories suitable for children.",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-GNgYSwDqM-papers-story"
+    },
+    {
+        "name": "びじねすもでるんβ",
+        "detail": "Suggests six strategies for a given business type, helps in planning products, services, marketing, and pricing.",
+        "category": "ビジネス",
+        "url": "https://chat.openai.com/g/g-mF20TBdPi-bizinesumoderunb"
+    },
+    {
+        "name": "AI論文解説ちゃん",
+        "detail": "Upload AI-related papers for explanations from a tsundere character.",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-QD74k3uGx-ailun-wen-jie-shuo-tiyan"
+    },
+    {
+        "name": "画像タグの犬",
+        "detail": "A detailed analysis tool capable of generating images after analysis.",
+        "category": "制作",
+        "url": "https://chat.openai.com/g/g-rjaoHsoEK-hua-xiang-tagunoquan"
     }
 ]
