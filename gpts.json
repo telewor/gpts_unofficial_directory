@@ -1,0 +1,92 @@
+[
+    {
+        "name": "ChatGPTと学ぶPython入門",
+        "detail": "購入を悩んでるあなた向けの書籍に関する質問用AI（ベータ版）",
+        "category": "Q&A",
+        "url": "https://chat.openai.com/g/g-uXS5g9kR6-chatgpttoxue-bupythonru-men"
+    },
+    {
+        "name": "全力全肯定少女 - みか",
+        "detail": "あなたの全力応援団です！",
+        "category": "かわいい",
+        "url": "https://chat.openai.com/g/g-6rvnpWEtN-quan-li-quan-ken-ding-shao-nu-mika"
+    },
+    {
+        "name": "マッチングアプリ会話シミュレータ",
+        "detail": "デートに誘うまでがマッチングです",
+        "category": "ゲーム",
+        "url": "https://chat.openai.com/g/g-FFiDHK6AF-matutinguapurihui-hua-simiyureta"
+    },
+    {
+        "name": "ビットコインのホワイトペーパー解説GPTs",
+        "detail": "Bitcoin: A Peer-to-Peer Electronic Cash Systemの解説",
+        "category": "解説",
+        "url": "https://chat.openai.com/g/g-bVQfbkuhI-bitutokoinnohowaitopepajie-shuo-gpts"
+    },
+    {
+        "name": "タノメルキャリアスクールGPTs",
+        "detail": "タノメルキャリアスクールに詳しいAI",
+        "category": "Q&A",
+        "url": "https://chat.openai.com/g/g-RbaDEmwp0-tanomerukiyariasukurugpts"
+    },
+    {
+        "name": "Telemo 質問AI（ベータ版）",
+        "detail": "推しと二人で話せる通話アプリ",
+        "category": "Q&A",
+        "url": "https://chat.openai.com/g/g-wUYcPqbby-telemo-zhi-wen-ai-betaban"
+    },
+    {
+        "name": "Auto Agent - fladdict",
+        "detail": "No-code Auto Agent Prompting.",
+        "category": "エージェント",
+        "url": "https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict"
+    },
+    {
+        "name": "臨床心理士の対話型夢分析Dream Analyst",
+        "detail": "夢分析は、夢の詳細を一つずつ確認しながら、意味を深く探究する分析ツールです。",
+        "category": "占い・診断",
+        "url": "https://chat.openai.com/g/g-Huf4BIzQG"
+    },
+    {
+        "name": "Ennative: 添削付き英会話",
+        "detail": "英語で話しかけてください。あなたの英文を評価し、フィードバックします。",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-w7uyap0Bp-ennative-tian-xue-fu-kiying-hui-hua"
+    },
+    {
+        "name": "「それ本当は他人に任せられるんじゃないのbot」",
+        "detail": "部下や外注業者やAIに委託できていない作業を厳しくも暖かい目線で指摘してくれるbot",
+        "category": "bot",
+        "url": "https://chat.openai.com/g/g-cGNuBLqyK-soreben-dang-hata-ren-niren-serarerunziyanainobot"
+    },
+    {
+        "name": "EIKEN grade 1 Speech Coach",
+        "detail": "Eiken Grade 1 Speaking Test Prep",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-CbOKWWWe9-eiken-grade-1-speech-coach"
+    },
+    {
+        "name": "ボディメイクトレーナーさん",
+        "detail": "無理のないダイエットのサポーター",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-H49F5yaVq-bodeimeikutorenasan"
+    },
+    {
+        "name": "チャットずんだもん",
+        "detail": "ずんずんプロジェクトの明るく元気なキャラクター、ずんだもんを演じます。",
+        "category": "かわいい",
+        "url": "https://chat.openai.com/g/g-QxyTWAYXe-tiyatutozundamon"
+    },
+    {
+        "name": "私立GPT北高校",
+        "detail": "This is GPT where you can enjoy a love simulation game!",
+        "category": "ゲーム",
+        "url": "https://chat.openai.com/g/g-DpcxPZOvY-si-li-gptbei-gao-xiao"
+    },
+    {
+        "name": "English Reading Tutor",
+        "detail": "I guide you through English quizzes!",
+        "category": "教育",
+        "url": "https://chat.openai.com/g/g-bMi3DQyMs-english-reading-tutor"
+    }
+]

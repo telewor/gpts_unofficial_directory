@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="ja" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPTs非公式ディレクトリ</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="flex flex-col h-full bg-gray-900 text-gray-300">
+    <header class="bg-gray-800 text-white text-center p-4">
+        <h1>GPTs非公式ディレクトリ</h1>
+    </header>
+
+    <section class="flex-1 container mx-auto p-4">
+        <div class="mb-4">
+            <div class="flex my-2 justify-center">
+                <p>このサイトはOSSです。サービス運営に関わりたい人はこちら：<a class="text-blue-300" href="https://github.com/telewor/gpts_unofficial_directory">Github</a></p>
+            </div>
+            <input type="text" id="search-input" placeholder="検索..." class="border p-2 w-full bg-gray-800 text-white">
+            <div class="flex flex-wrap justify-center gap-2 mt-2">
+                <button class="bg-blue-500 text-white p-2 category-button" data-category="all">全て</button>
+                <button class="bg-blue-500 text-white p-2 category-button" data-category="かわいい">かわいい</button>
+                <button class="bg-blue-500 text-white p-2 category-button" data-category="ゲーム">ゲーム</button>
+                <button class="bg-blue-500 text-white p-2 category-button" data-category="解説">解説</button>
+                <button class="bg-blue-500 text-white p-2 category-button" data-category="エージェント">エージェント</button>
+                <button class="bg-blue-500 text-white p-2 category-button" data-category="占い・診断">占い・診断</button>
+                <button class="bg-blue-500 text-white p-2 category-button" data-category="教育">教育</button>
+                <button class="bg-blue-500 text-white p-2 category-button" data-category="bot">bot</button>
+                <button class="bg-blue-500 text-white p-2 category-button" data-category="Q&A">Q&A</button>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="list-container">
+            <!-- リストアイテムはJavaScriptで生成されます -->
+        </div>
+    </section>
+
+    <footer class="bg-gray-800 text-white text-center p-4">
+        <p>&copy; 2023 GPTs非公式ディレクトリ</p>
+        <p>by <a class="hover:text-blue-500" href="https://ctxo.pro/dai">タノメルキャリアスクール</a></p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            let data = [];
+            fetch('gpts.json')
+                .then(response => response.json())
+                .then(jsonData => {
+                    data = jsonData;
+                    renderList(data);
+                })
+                .catch(error => console.error('Error:', error));
+
+            const searchInput = document.getElementById('search-input');
+            searchInput.addEventListener('keyup', function() {
+                const searchText = this.value.toLowerCase();
+                const filteredData = data.filter(item => 
+                    item.name.toLowerCase().includes(searchText) || 
+                    item.detail.toLowerCase().includes(searchText));
+                renderList(filteredData);
+            });
+
+            function renderList(items) {
+                const listContainer = document.getElementById('list-container');
+                listContainer.innerHTML = '';
+                items.forEach(item => {
+                    const div = document.createElement('div');
+                    div.className = 'bg-gray-800 p-4 border border-gray-700 cursor-pointer item';
+                    div.setAttribute('data-category', item.category);
+                    div.innerHTML = `
+                        <h2 class="text-lg font-bold">${item.name}</h2>
+                        <p>${item.detail}</p>
+                    `;
+                    div.onclick = () => window.location.href = item.url;
+                    listContainer.appendChild(div);
+                });
+            }
+
+            const buttons = document.querySelectorAll('.category-button');
+            buttons.forEach(button => {
+                button.addEventListener('click', function() {
+                    buttons.forEach(btn => btn.classList.remove('border-4')); // 全てのボタンの特別なスタイルをリセット
+                    buttons.forEach(btn => btn.classList.remove('border-white')); // 全てのボタンの特別なスタイルをリセット
+                    this.classList.add('border-4'); // 選択されたボタンに特別なスタイルを適用
+                    this.classList.add('border-white'); // 選択されたボタンに特別なスタイルを適用
+
+                    const category = this.getAttribute('data-category');
+                    const listItems = document.querySelectorAll('.item');
+                    listItems.forEach(item => {
+                        if (category === 'all' || item.getAttribute('data-category') === category) {
+                            item.style.display = '';
+                        } else {
+                            item.style.display = 'none';
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html>
