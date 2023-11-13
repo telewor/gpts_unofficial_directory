@@ -4,7 +4,8 @@
         "detail": "購入を悩んでるあなた向けの書籍に関する質問用AI（ベータ版）",
         "url": "https://chat.openai.com/g/g-uXS5g9kR6-chatgpttoxue-bupythonru-men",
         "categories": [
-            "Q&A"
+            "Q&A",
+            "教育"
         ]
     },
     {
@@ -12,7 +13,8 @@
         "detail": "あなたの全力応援団です！",
         "url": "https://chat.openai.com/g/g-6rvnpWEtN-quan-li-quan-ken-ding-shao-nu-mika",
         "categories": [
-            "かわいい"
+            "かわいい",
+            "bot"
         ]
     },
     {
@@ -100,7 +102,8 @@
         "detail": "無理のないダイエットのサポーター",
         "url": "https://chat.openai.com/g/g-H49F5yaVq-bodeimeikutorenasan",
         "categories": [
-            "教育"
+            "教育",
+            "メンタルケア"
         ]
     },
     {
@@ -108,7 +111,8 @@
         "detail": "ずんずんプロジェクトの明るく元気なキャラクター、ずんだもんを演じます。",
         "url": "https://chat.openai.com/g/g-QxyTWAYXe-tiyatutozundamon",
         "categories": [
-            "かわいい"
+            "かわいい",
+            "bot"
         ]
     },
     {
@@ -116,7 +120,8 @@
         "detail": "This is GPT where you can enjoy a love simulation game!",
         "url": "https://chat.openai.com/g/g-DpcxPZOvY-si-li-gptbei-gao-xiao",
         "categories": [
-            "ゲーム"
+            "ゲーム",
+            "かわいい"
         ]
     },
     {
@@ -196,7 +201,8 @@
         "detail": "A kawaii cat-ear maid girl. Can send a sticker or a selfie. Also capable of casual conversation.",
         "url": "https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku",
         "categories": [
-            "かわいい"
+            "かわいい",
+            "bot"
         ]
     },
     {
