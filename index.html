@@ -101,7 +101,7 @@
                 items.forEach(item => {
                     const div = document.createElement('div');
                     div.className = 'bg-gray-800 p-4 border border-gray-700 cursor-pointer item';
-                    div.setAttribute('data-category', item.category);
+                    div.setAttribute('data-categories', item.categories.join(','));
                     div.innerHTML = `
                         <h2 class="text-lg font-bold">${item.name}</h2>
                         <p>${item.detail}</p>
@@ -122,7 +122,8 @@
                     const category = this.getAttribute('data-category');
                     const listItems = document.querySelectorAll('.item');
                     listItems.forEach(item => {
-                        if (category === 'all' || item.getAttribute('data-category') === category) {
+                        const itemCategories = item.getAttribute('data-categories').split(',');
+                        if (category === 'all' || itemCategories.includes(category)) {
                             item.style.display = '';
                         } else {
                             item.style.display = 'none';
