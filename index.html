@@ -113,24 +113,39 @@
                 });
             }
 
+            function switchCategory(category) {
+                if (typeof category === 'string') {
+                    // 文字列でカテゴリが渡された場合はボタンを取得
+                    target_button = buttons.find(btn => btn.getAttribute('data-category') === category);
+                    if (!target_button) {
+                        console.error('条件に合致する要素がありません');
+                        return;
+                    }
+                } else {
+                    target_button = category;
+                    category = target_button.getAttribute('data-category');
+                }
+
+                buttons.forEach(btn => btn.classList.remove('border-4')); // 全てのボタンの特別なスタイルをリセット
+                buttons.forEach(btn => btn.classList.remove('border-white')); // 全てのボタンの特別なスタイルをリセット
+                target_button.classList.add('border-4'); // 選択されたボタンに特別なスタイルを適用
+                target_button.classList.add('border-white'); // 選択されたボタンに特別なスタイルを適用
+
+                const listItems = document.querySelectorAll('.item');
+                listItems.forEach(item => {
+                    const itemCategories = item.getAttribute('data-categories').split(',');
+                    if (category === 'all' || itemCategories.includes(category)) {
+                        item.style.display = '';
+                    } else {
+                        item.style.display = 'none';
+                    }
+                });
+            }
+
             const buttons = document.querySelectorAll('.category-button');
             buttons.forEach(button => {
                 button.addEventListener('click', function() {
-                    buttons.forEach(btn => btn.classList.remove('border-4')); // 全てのボタンの特別なスタイルをリセット
-                    buttons.forEach(btn => btn.classList.remove('border-white')); // 全てのボタンの特別なスタイルをリセット
-                    this.classList.add('border-4'); // 選択されたボタンに特別なスタイルを適用
-                    this.classList.add('border-white'); // 選択されたボタンに特別なスタイルを適用
-
-                    const category = this.getAttribute('data-category');
-                    const listItems = document.querySelectorAll('.item');
-                    listItems.forEach(item => {
-                        const itemCategories = item.getAttribute('data-categories').split(',');
-                        if (category === 'all' || itemCategories.includes(category)) {
-                            item.style.display = '';
-                        } else {
-                            item.style.display = 'none';
-                        }
-                    });
+                    switchCategory(this);
                 });
             });
         });
