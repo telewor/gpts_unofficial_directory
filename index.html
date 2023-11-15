@@ -99,7 +99,7 @@
                 const listContainer = document.getElementById('list-container');
                 listContainer.innerHTML = '';
                 items.forEach(item => {
-                    const categoryTags = item.categories.map(c => '#'+c).join(' ');
+                    const categoryTags = item.categories.map(c => `<span data-category="${c}">#${c}</span>`).join(' ');
                     const div = document.createElement('div');
                     div.className = 'bg-gray-800 p-4 border border-gray-700 cursor-pointer item';
                     div.setAttribute('data-categories', item.categories.join(','));
@@ -108,15 +108,23 @@
                         <p>${item.detail}</p>
                         <p class="text-blue-300">${categoryTags}</p>
                     `;
+                    const category_spans = document.querySelectorAll('p > span');
+                    category_spans.forEach(span => {
+                        span.onclick = event => {
+                            event.stopPropagation(); // 親要素の伝搬を停止
+                            switchCategory(span.getAttribute('data-category')); // switchCategory関数を呼び出す
+                        };
+                    });
                     div.onclick = () => window.location.href = item.url;
                     listContainer.appendChild(div);
                 });
             }
 
             function switchCategory(category) {
+                console.log(buttons);
                 if (typeof category === 'string') {
                     // 文字列でカテゴリが渡された場合はボタンを取得
-                    target_button = buttons.find(btn => btn.getAttribute('data-category') === category);
+                    target_button = [... buttons].find(btn => btn.getAttribute('data-category') === category);
                     if (!target_button) {
                         console.error('条件に合致する要素がありません');
                         return;
