@@ -99,12 +99,14 @@
                 const listContainer = document.getElementById('list-container');
                 listContainer.innerHTML = '';
                 items.forEach(item => {
+                    const categoryTags = item.categories.map(c => '#'+c).join(' ');
                     const div = document.createElement('div');
                     div.className = 'bg-gray-800 p-4 border border-gray-700 cursor-pointer item';
                     div.setAttribute('data-categories', item.categories.join(','));
                     div.innerHTML = `
                         <h2 class="text-lg font-bold">${item.name}</h2>
                         <p>${item.detail}</p>
+                        <p class="text-blue-300">${categoryTags}</p>
                     `;
                     div.onclick = () => window.location.href = item.url;
                     listContainer.appendChild(div);
