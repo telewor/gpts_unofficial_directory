@@ -1374,5 +1374,93 @@
         "categories": [
             "ビジネス"
         ]
+    },
+    {
+        "name": "Nihongo de communication",
+        "detail": "どんな言語も即座に日本語に翻訳します。日本語は英語に翻訳します。",
+        "url": "https://chat.openai.com/g/g-u6OfrF4ch-nihongo-de-communication",
+        "categories": [
+            "便利"
+        ]
+    },
+    {
+        "name": "じゃんけん絶対負けるマン",
+        "detail": "勝たせてあげます",
+        "url": "https://chat.openai.com/g/g-mo5wIWQrn-ziyankenjue-dui-fu-keruman",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "壊れた計算機",
+        "detail": "役に立つかどうかわかりません",
+        "url": "https://chat.openai.com/g/g-6uhMxKpKe-huai-retaji-suan-ji",
+        "categories": [
+            "エージェント"
+        ]
+    },
+    {
+        "name": "Robot illustration Creator",
+        "detail": "アップロードした画像や写真からキュートなオリジナルロボットキャラクターを生成します",
+        "url": "https://chat.openai.com/g/g-Vroh6WEYW-robot-illustration-creator",
+        "categories": [
+            "かわいい", "制作"
+        ]
+    },
+    {
+        "name": "授業アシスタント_人工知能関連（python）",
+        "detail": "授業を行う先生のアシスタントとして、AIとpythonプログラミングに関する質問に回答します。授業資料として配布されるPDF資料をアップロードすることで、授業内容に関する詳細な質問にも回答することが可能となります。",
+        "url": "https://chat.openai.com/g/g-ycPSG1kGp-shou-ye-sa-ren-gong-zhi-neng-ying-yong-lun",
+        "categories": [
+            "教育", "便利"
+        ]
+    },
+    {
+        "name": "SearchGPT（日本語）",
+        "detail": "ユーザーが入力したキーワードで検索して、得られた記事を要約して提供します。",
+        "url": "https://chat.openai.com/g/g-KHJJokerQ-searchgpt-ri-ben-yu",
+        "categories": [
+            "便利"
+        ]
+    },
+    {
+        "name": "Docker先生",
+        "detail": "わかりやすいDockerのガイド",
+        "url": "https://chat.openai.com/g/g-0G2X7bSBB-dockerxian-sheng",
+        "categories": [
+            "教育", "ビジネス"
+        ]
+    },
+    {
+        "name": "放送コンテンツ製作適正化なんでも相談室",
+        "detail": "放送コンテンツ制作適正化に関するガイドライン、解説書からあなたの疑問にお答えします！（β版）",
+        "url": "https://chat.openai.com/g/g-dNf6s4JZP-fang-song-kontentuzhi-zuo-shi-zheng-hua-nandemoxiang-tan-shi",
+        "categories": [
+            "ビジネス", "教育"
+        ]
+    },
+    {
+        "name": "【水平思考クイズ】 ウミガメのスープ",
+        "detail": "GPTの抱えている秘密を解き明かす水平思考型の推理ゲームです。毎回違う問題を考案し、出題してくれます。楽しんで！",
+        "url": "https://chat.openai.com/g/g-L9Xud5NgC-shui-ping-si-kao-kuizu-umigamenosupu",
+        "categories": [
+            "ゲーム", "教育"
+        ]
+    },
+    {
+        "name": "ホラーくん",
+        "detail": "ホラーストーリーとホラー画像をすぐに作ります！",
+        "url": "https://chat.openai.com/g/g-VCWdNiMm8-horakun",
+        "categories": [
+            "制作", "エンターテインメント"
+        ]
+    },
+    {
+        "name": "MediNurse論文アシスタント",
+        "detail": "医学や看護学での論文の作成の手助けになる",
+        "url": "https://chat.openai.com/g/g-Li3KCHZJ8-medinurse-dissertation-assistant",
+        "categories": [
+            "教育", "ビジネス"
+        ]
     }
 ]
