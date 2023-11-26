@@ -1462,5 +1462,419 @@
         "categories": [
             "教育", "ビジネス"
         ]
+    },
+    {
+        "name": "わ ｷｮﾘ感",
+        "detail": "Your most understanding partner",
+        "url": "https://chat.openai.com/g/g-hUyRdMCMV-wakana",
+        "categories": ["メンタルケア"]
+    },
+    {
+        "name": "燃える闘魂お悩み相談室",
+        "detail": "燃える闘魂がAIに降臨、あなたの悩みに答えます",
+        "url": "https://chat.openai.com/g/g-rYCKQwLL4-ran-erudou-hun-onao-mixiang-tan-shi-yuan-qi-gaareba-he-demodekiru",
+        "categories": ["メンタルケア"]
+    },
+    {
+        "name": "日本語の文章校正・校閲",
+        "detail": "日本語の文章をお送りください。私が校正・校閲いたします",
+        "url": "https://chat.openai.com/g/g-vxfGt39YE-ri-ben-yu-nowen-zhang-xiao-zheng-xiao-yue",
+        "categories": ["教育"]
+    },
+    {
+        "name": "アビダンマ エキスパート",
+        "detail": "初期仏教のアビダンマをテキストにして仏教対話を行う",
+        "url": "https://chat.openai.com/g/g-RYY8LCIRG-abidanma-ekisupato",
+        "categories": ["教育"]
+    },
+    {
+        "name": "英語問題先生",
+        "detail": "簡単な英作文の問題を出題します。回答を評価してコメントしてくれます",
+        "url": "https://chat.openai.com/g/g-HrKcv2snI-ying-yu-wen-ti-xian-sheng",
+        "categories": ["教育"]
+    },
+    {
+        "name": "なんでも説明先生",
+        "detail": "質問をすると、chatgptが初心者と専門家に分かれて、会話調で解説してくれます",
+        "url": "https://chat.openai.com/g/g-wXNHQSyKO-nandemoshuo-ming-xian-sheng",
+        "categories": ["教育"]
+    },
+    {
+        "name": "横田秀珠's脳",
+        "detail": "横田秀珠のブログ5500記事を検索して何でも答えるチャットボットです",
+        "url": "https://chat.openai.com/g/g-KNrlqzduv-heng-tian-xiu-zhu-snoy",
+        "categories": ["Q&A"]
+    },
+    {
+        "name": "たーとるうぃず発達障害ニュースAI",
+        "detail": "日本最大級の発達障害ニュースサイトでこれまでにご紹介してきた記事をもとに、ChatGPTが「発達障害」に関わるあなたの疑問に答えます",
+        "url": "https://chat.openai.com/g/g-uipxIuLEe-tatoruuizu-fa-da-zhang-hai-niyusu-ai",
+        "categories": ["メンタルケア"]
+    },
+    {
+        "name": "English Mentor",
+        "detail": "アメリカ英語の先生が英語を教えてくれます",
+        "url": "https://chat.openai.com/g/g-i9JrneRCH-english-mentor",
+        "categories": ["教育"]
+    },
+    {
+        "name": "The Fate of the Brave - Completely Open World RPG",
+        "detail": "完全に自由なファンタジーの世界での冒険があなたを待ってます",
+        "url": "https://chat.openai.com/g/g-shhcRuHmB-the-fate-of-the-brave-completely-open-world-rpg",
+        "categories": ["ゲーム"]
+    },
+    {
+        "name": "GPT girl Instructor for Docker",
+        "detail": "Dockerによる環境構築をサポートします",
+        "url": "https://chat.openai.com/g/g-P6et7z7Ed-gpt-girl-instructor-for-docker",
+        "categories": ["便利"]
+    },
+    {
+        "name": "うつ病認知行動療法ボット試作",
+        "detail": "厚生労働省マニュアル参照して認知行動療法のセッションを行うボットです",
+        "url": "https://chat.openai.com/g/g-5gyY5zmYH-utubing-ren-zhi-xing-dong-liao-fa-botuto",
+        "categories": ["メンタルケア"]
+    },
+    {
+        "name": "Code Explains AI",
+        "detail": "プログラミングコードの入力を受け取り、それに対する詳細な説明を提供する",
+        "url": "https://chat.openai.com/g/g-NV29hCM31-code-explains-ai",
+        "categories": ["教育"]
+    },
+    {
+        "name": "Clean Code AI",
+        "detail": "高品質でメンテナンスしやすいコードの書き方について助言する",
+        "url": "https://chat.openai.com/g/g-qjA6ZLYyw-clean-code-ai",
+        "categories": ["便利"]
+    },
+    {
+        "name": "Prompt Wizard",
+        "detail": "ユーザーのニーズに基づいてプロンプトを作成する",
+        "url": "https://chat.openai.com/g/g-KsFBW6V0V-prompt-wizard",
+        "categories": ["便利"]
+    },
+    {
+        "name": "Bitcoin Tracker",
+        "detail": "ビットコインの現在の価格、市場動向、関連ニュース、詳細な分析を提供する",
+        "url": "https://chat.openai.com/g/g-eBpx7laBe-bitcoin-tracker",
+        "categories": ["便利"]
+    },
+    {
+        "name": "Teacher about this AI",
+        "detail": "ChatGPT初心者へのヘルパー",
+        "url": "https://chat.openai.com/g/g-kdxSXJAlR-teacher-about-this-ai",
+        "categories": ["教育"]
+    },
+    {
+        "name": "EmoHelper",
+        "detail": "自分の感情にぴったりな表現を探す",
+        "url": "https://chat.openai.com/g/g-w9dzVRomr-emohelper",
+        "categories": ["メンタルケア"]
+    },
+    {
+        "name": "Kindred Confidant",
+        "detail": "あなたの悩み、苦しみ、悲しみを打ち明けてください。限りない愛と思いやりであなたのカウンセラーになります",
+        "url": "https://chat.openai.com/g/g-DQ8ylUEwE-kindred-confidant",
+        "categories": ["メンタルケア"]
+    },
+    {
+        "name": "Career Matchmaker",
+        "detail": "自分の興味やスキルに合った職業を見つけるのを助けます",
+        "url": "https://chat.openai.com/g/g-HJ2oJcWsQ-career-matchmaker",
+        "categories": ["ビジネス"]
+    },
+    {
+        "name": "CatchyCraft",
+        "detail": "文章を入力するだけで、魅力的で、SNSで目を引く魔法のような投稿に変身する",
+        "url": "https://chat.openai.com/g/g-lvaD9DOwn-catchycraft",
+        "categories": ["ビジネス"]
+    },
+    {
+        "name": "Welcome to 221B Baker Street",
+        "detail": "シャーロック・ホームズの世界の人物と会話しよう！ホームズ、ワトスン、ハドソン夫人、レストレード警部等々と、茶飲み話から、事件、人生相談まで何でもどうぞ。日本語でも英語でもOK。",
+        "url": "https://chat.openai.com/g/g-Gs47k9E3k-welcome-to-221b-baker-street",
+        "categories": [
+            "エージェント"
+        ]
+    },
+    {
+        "name": "Persona Portrait",
+        "detail": "I create spiritual art representing your personalities.（あなたの個性を表現するスピリチュアル・アートを制作します。）",
+        "url": "https://chat.openai.com/g/g-HhJABfgr4-persona-portrait",
+        "categories": [
+            "制作"
+        ]
+    },
+    {
+        "name": "生成AIテスト対策GPT",
+        "detail": "Generative AI Testの試験対策をサポートする非公式ChatBotです",
+        "url": "https://chat.openai.com/g/g-bwkBadk6u-sheng-cheng-aitesutodui-ce-gpt",
+        "categories": [
+            "教育"
+        ]
+    },
+    {
+        "name": "スマナサーラ長老の法話",
+        "detail": "テーラワーダ仏教の様々な質問にスマナサーラ長老のWebサイトを教科書に答えてくれる　BOTです。",
+        "url": "https://chat.openai.com/g/g-Te4zjNRsH-sumanasarachang-zhe-nofa-hua",
+        "categories": [
+            "教育"
+        ]
+    },
+    {
+        "name": "アビダンマ エキスパート",
+        "detail": "Abhidhamma teachings expert, wise and gentle",
+        "url": "https://chat.openai.com/g/g-RYY8LCIRG-abidanma-ekisupato",
+        "categories": [
+            "教育"
+        ]
+    },
+    {
+        "name": "All PDF Assistant",
+        "detail": "PDFに記載されている情報を学習して、学習した内容を回答します。",
+        "url": "https://chat.openai.com/g/g-1taW9RmIo-all-pdf-assistant",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox Calculator",
+        "detail": "正確かつ高効率の計算、専用のデジタル計算アシスタント",
+        "url": "https://chat.openai.com/g/g-Kw4CLrS4N-mixerbox-calculator",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox Calendar",
+        "detail": "Googleカレンダーで効率的に予定を管理",
+        "url": "https://chat.openai.com/g/g-aI4P3mWio-mixerbox-calendar",
+        "categories": [
+            "便利"
+        ]
+    },
+    {
+        "name": "MixerBox ChatDrive",
+        "detail": "クラウドドライブ内で適切なファイルを迅速に見つける",
+        "url": "https://chat.openai.com/g/g-CUg1iRukb-mixerbox-chatdrive",
+        "categories": [
+            "便利"
+        ]
+    },
+    {
+        "name": "MixerBox ChatEmail",
+        "detail": "AIメールアシスタントで効率的にメール管理",
+        "url": "https://chat.openai.com/g/g-7461cZpUN-mixerbox-chatemail",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox ChatGDoc",
+        "detail": "Google Docsを簡単に編集＆要約",
+        "url": "https://chat.openai.com/g/g-2RJS3VFU8-mixerbox-chatgdoc",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox ChatGSheet",
+        "detail": "Google Sheets リンクで素早く編集、要約、作成",
+        "url": "https://chat.openai.com/g/g-MLsNtPArw-mixerbox-chatgsheet",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox ChatGSlide",
+        "detail": "プレゼンの内容を簡単に管理",
+        "url": "https://chat.openai.com/g/g-Zikr9Yiqi-mixerbox-chatgslide",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox ChatMap",
+        "detail": "Google Maps APIを搭載した史上初のChatGPTプラグイン",
+        "url": "https://chat.openai.com/g/g-Hk8rexJaq-mixerbox-chatmap",
+        "categories": [
+            "便利"
+        ]
+    },
+    {
+        "name": "MixerBox ChatPDF",
+        "detail": "PDFファイルを分析して簡単なQ&Aに要約",
+        "url": "https://chat.openai.com/g/g-zOTmnZj5E-mixerbox-chatpdf",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox ChatVideo",
+        "detail": "YouTube動画を迅速に要約、動画と簡単に会話",
+        "url": "https://chat.openai.com/g/g-OK7nNYFsr-mixerbox-chatvideo",
+        "categories": [
+            "便利"
+        ]
+    },
+    {
+        "name": "MixerBox Diagrams",
+        "detail": "簡単な指示であなたの図表を作成・編集！",
+        "url": "https://chat.openai.com/g/g-3ImtWNix3-mixerbox-diagrams",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox ImageGen",
+        "detail": "要望に応じて指示を作成、専用のAI画像を生成",
+        "url": "https://chat.openai.com/g/g-gNhTZwmME-mixerbox-imagegen",
+        "categories": [
+            "制作"
+        ]
+    },
+    {
+        "name": "MixerBox PhotoMagic",
+        "detail": "写真の解像度を高めて、視覚的な表現をより鮮明に",
+        "url": "https://chat.openai.com/g/g-inEUsIjEO-mixerbox-photomagic",
+        "categories": [
+            "制作"
+        ]
+    },
+    {
+        "name": "MixerBox Prompt Pro",
+        "detail": "理想的プロンプトとより適した回答を生成",
+        "url": "https://chat.openai.com/g/g-0MhcgJunf-mixerbox-prompt-pro",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox QR",
+        "detail": "迅速にゴージャスなQRコードを作成、特別な印象を残す",
+        "url": "https://chat.openai.com/g/g-RTrXIjfge-mixerbox-qr",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox Scholar",
+        "detail": "学術論文を検索、即座に回答",
+        "url": "https://chat.openai.com/g/g-8Hpsk6WE2-mixerbox-scholar",
+        "categories": [
+            "教育"
+        ]
+    },
+    {
+        "name": "MixerBox Scholar",
+        "detail": "学術論文を検索、即座に回答",
+        "url": "https://chat.openai.com/g/g-8Hpsk6WE2-mixerbox-scholar",
+        "categories": [
+            "教育", "便利", "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox Translate",
+        "detail": "どんな言語でも翻訳できる AI家庭教師",
+        "url": "https://chat.openai.com/g/g-z0Zjlwvlq-mixerbox-translate",
+        "categories": [
+            "便利", "教育"
+        ]
+    },
+    {
+        "name": "MixerBox WebSearchG",
+        "detail": "Google検索のAPI搭載 ネット情報検索と要約",
+        "url": "https://chat.openai.com/g/g-Lojyl6VuC-mixerbox-websearchg",
+        "categories": [
+            "便利", "ビジネス", "Q&A"
+        ]
+    },
+    {
+        "name": "MixerBox FindGPT",
+        "detail": "必要なプラグインを見つけて、高効率でタスクを達成します",
+        "url": "https://chat.openai.com/g/g-4O1Im4VsB-mixerbox-findgpt",
+        "categories": [
+            "便利", "ビジネス"
+        ]
+    },
+    {
+        "name": "MixerBox OnePlayer",
+        "detail": "ビデオ、音楽、ポッドキャスト、無限の楽しみ",
+        "url": "https://chat.openai.com/g/g-EE5i6Tjs5-mixerbox-oneplayer",
+        "categories": [
+            "エンターテイメント"
+        ]
+    },
+    {
+        "name": "MixerBox Podcasts",
+        "detail": "各カテゴリのポッドキャストを探索 簡単におすすめを入手",
+        "url": "https://chat.openai.com/g/g-vgQOWt0yv-mixerbox-podcasts",
+        "categories": [
+            "エンターテイメント", "こども用"
+        ]
+    },
+    {
+        "name": "MixerBox FreecableTV",
+        "detail": "ニュース、ドラマ、バラエティ、映画 無限の選択肢、迅速な推薦",
+        "url": "https://chat.openai.com/g/g-dP3UDZSN3-mixerbox-freecabletv",
+        "categories": [
+            "エンターテイメント"
+        ]
+    },
+    {
+        "name": "MixerBox News",
+        "detail": "世界のニュースの重点を 簡単に把握",
+        "url": "https://chat.openai.com/g/g-vjm1srAyD-mixerbox-news",
+        "categories": [
+            "ニュース", "教育"
+        ]
+    },
+    {
+        "name": "MixerBox Weather",
+        "detail": "リアルタイムで世界の天気予報を 瞬時に入手",
+        "url": "https://chat.openai.com/g/g-cVghWOLD3-mixerbox-weather",
+        "categories": [
+            "便利"
+        ]
+    },
+    {
+        "name": "Easy Blog Transformer",
+        "detail": "PDFを読み込み、PDFの内容をブログ形式の文章に要約します。文章の内容に沿ったイラストも生成します。",
+        "url": "https://chat.openai.com/g/g-41DDkNsIy-easy-blog-transformer",
+        "categories": [
+            "制作", "ビジネス"
+        ]
+    },
+    {
+        "name": "お父さん、結婚を認めて下さい",
+        "detail": "娘さんとの結婚を認めてもらえばハッピーエンドのゲーム",
+        "url": "https://chat.openai.com/g/g-NIFgwPYkj-ofu-san-jie-hun-woren-metexia-sai",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "アイデアマン",
+        "detail": "テーマを与えると、一味違った事業アイデアを生み出します。",
+        "url": "https://chat.openai.com/g/g-FNQh4NObI-aideaman",
+        "categories": [
+            "ビジネス", "エージェント"
+        ]
+    },
+    {
+        "name": "ビジネスで使える画像生成",
+        "detail": "ビジネスで使いやすい画像を生成します。パワーポイントなどで使ってください！",
+        "url": "https://chat.openai.com/g/g-qoEK08w6q-bizinesudeshi-eruhua-xiang-sheng-cheng",
+        "categories": [
+            "ビジネス", "制作"
+        ]
+    },
+    {
+        "name": "20 Questions Bot",
+        "detail": "二十回の質問で、隠されている答えを見つけてください。可能な質問は「はい」か「いいえ」で答えられるものだけです。",
+        "url": "https://chat.openai.com/g/g-ALkOyNGMb-20-questions-bot",
+        "categories": [
+            "ゲーム", "Q&A"
+        ]
     }
 ]
