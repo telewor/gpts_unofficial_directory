@@ -560,14 +560,6 @@
         ]
     },
     {
-        "name": "スマナサーラ長者の法話",
-        "detail": "テーラワーダ仏教の様々な質問にスマナサーラ長老のWebサイトを教科書に答えてくれる　BOTです。",
-        "url": "https://chat.openai.com/g/g-RYY8LCIRG-abidanma-ekisupato",
-        "categories": [
-            "メンタルケア"
-        ]
-    },
-    {
         "name": "補助金サポーター",
         "detail": "この GPT は日本語で、主に補助金申請の進め方や対象経費、事業計画書の策定に特化しています。ユーザーとの会話の出発点で、これらの補助金のいずれに興味があるかを確認し、各補助金の規約や条件に基づいて適切なサポートを提供します。特定の補助金に関連する質問がある場合は、その補助金の詳細について話題を提供し、深く探索して調査を行います。",
         "url": "https://chat.openai.com/g/g-9BQnnWENJ-bu-zhu-jin-sapota",
@@ -1618,15 +1610,7 @@
         "detail": "テーラワーダ仏教の様々な質問にスマナサーラ長老のWebサイトを教科書に答えてくれる　BOTです。",
         "url": "https://chat.openai.com/g/g-Te4zjNRsH-sumanasarachang-zhe-nofa-hua",
         "categories": [
-            "教育"
-        ]
-    },
-    {
-        "name": "アビダンマ エキスパート",
-        "detail": "Abhidhamma teachings expert, wise and gentle",
-        "url": "https://chat.openai.com/g/g-RYY8LCIRG-abidanma-ekisupato",
-        "categories": [
-            "教育"
+            "教育", "メンタルケア"
         ]
     },
     {
