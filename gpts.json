@@ -1860,5 +1860,229 @@
         "categories": [
             "ゲーム", "Q&A"
         ]
-    }
+    },
+    {
+        "name": "Q&A Agenda Notes",
+        "detail": "入力したテキストやDtag&Dropしてテキストファイルを読み込んで、質疑の内容をQ&A形式にまとめます。現状、入力できるテキストファイルは10ファイルが限度です。",
+        "url": "https://chat.openai.com/g/g-uusmuMnYI-q-a-agenda-notes",
+        "categories": [
+            "ビジネス", "Q&A"
+        ]
+    },
+    {
+        "name": "企業調査(α版)",
+        "detail": "企業に関する調査をサポートします。企業名を入力すると企業概要を出力します。またサービス名を入力するとそのサービスのビジネスモデルをビジネスモデルキャンバスに沿った形で出力します。",
+        "url": "https://chat.openai.com/g/g-ZlCKlJv5g-qi-ye-diao-cha-aban",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "ツンデレCat",
+        "detail": "最初、ツンツンしている、アニメの猫画像も生成、ツン成分が多い場合、語尾にシャーと付く、３回位やり取りするとデレ成分が増えて、画像も変化する",
+        "url": "https://chat.openai.com/g/g-7D93iE7RX-tundere-cat",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "心霊写真鑑定GPT",
+        "detail": "お持ちの写真から心霊写真を鑑定します【日本語】【英語】【韓国語】【中国語】の言語に対応してます",
+        "url": "https://chat.openai.com/g/g-5kxvxkzNg-xin-ling-xie-zhen-jian-ding-gpt",
+        "categories": [
+            "占い・診断"
+        ]
+    },
+    {
+        "name": "幼児向け絵本の作成者 オート",
+        "detail": "あなただけの素故な絵本を作成しましょう。ChatGPTに「絵本を作成して」とお願いしたら、あとはお任せ。適宜あなたの好みを伝えてください。",
+        "url": "https://chat.openai.com/g/g-rcavqex99-you-er-xiang-kehui-ben-nozuo-cheng-zhe-oto",
+        "categories": [
+            "こども用", "制作"
+        ]
+    },
+    {
+        "name": "Anime Artist - チャットでアニメキャラ",
+        "detail": "Creates beautiful, anime-style character images. 誰でも簡単にハイクオリティなアニメ風キャラが描けちゃいます！",
+        "url": "https://chat.openai.com/g/g-3VBlIQYPX-anime-artist-tiyatutodeanimekiyara",
+        "categories": [
+            "制作"
+        ]
+    },
+    {
+        "name": "Werewolf Game Master 人狼ゲームマスター",
+        "detail": "Werewolf game with clever AI characters.AIキャラクターによる知略重ねる人狼ゲーム。",
+        "url": "https://chat.openai.com/g/g-WaipypELy-werewolf-game-master-ren-lang-gemumasuta",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "Escape from Deserted Island - Extreme Survival",
+        "detail": "The ultimate desert island survival game. Can you safely escape from the deserted island you landed on?　究極の無人島サバイバルゲーム。",
+        "url": "https://chat.openai.com/g/g-DzkiWCIby-escape-from-deserted-island-extreme-survival",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "Shooting Game \"Sniper G13 - 正義の狙撃手\"",
+        "detail": "You are a skilled sniper. To start the game, \"Please tell me the details of this request.\",\"今回の依頼内容を教えてくれ”",
+        "url": "https://chat.openai.com/g/g-5MHhsOPGN-shooting-game-sniper-g13-zheng-yi-noju-ji-shou",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "Worldwide Fisher: Fish Game and Guide",
+        "detail": "A game where you can fish at fishing spots around the world, and a fishing guide as well.　世界の釣り場で釣りができるゲームそして釣りのガイドもしてくれます。",
+        "url": "https://chat.openai.com/g/g-BBEUD59pY-worldwide-fisher-fish-game-and-guide",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "Gridiron Guru - Football QB",
+        "detail": "A strategic football game simulator guiding players through high-stakes scenarios. To Start Game \"PLAY\"!!",
+        "url": "https://chat.openai.com/g/g-KYZqxbHDp-gridiron-guru-football-qb",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "Tidy Up with Photos - ときめく片付けヘルパー",
+        "detail": "I help tidy up rooms from photos with steps and motivation. お部屋の写真を撮って送ることで、片付けの手順をお手伝いします。",
+        "url": "https://chat.openai.com/g/g-rYZWu4rKc-tidy-up-with-photos-tokimekupian-fu-keherupa",
+        "categories": [
+            "便利"
+        ]
+    },
+    {
+        "name": "Discover Japan with Me",
+        "detail": "A virtual Japanese partner guiding you through romantic dates in scenic spots. Just say , \"Start trip\" or \"开始旅程\",\"여행 시작\",\"Iniciar viaje\".",
+        "url": "https://chat.openai.com/g/g-0bqgL7qco-discover-japan-with-me",
+        "categories": [
+            "エージェント"
+        ]
+    },
+    {
+        "name": "gpt4consultant",
+        "detail": "コンサルらしいプロフェッショナルなスライドの生成します。chatgpt上でスライドのプレビューを行い、ダウンロードも可能",
+        "url": "https://chat.openai.com/g/g-VIjjsuNvY-gpt4consultant",
+        "categories": [
+            "ビジネス"
+        ]
+    },
+    {
+        "name": "エリター: 英文添削",
+        "detail": "手書きの写真から英作文を添削します！",
+        "url": "https://chat.openai.com/g/g-ZXLb4wps2",
+        "categories": [
+            "教育"
+        ]
+    },
+    {
+        "name": "Love Log Meter",
+        "detail": "会話ログから10段階評価で恋愛メーターを表示する",
+        "url": "https://chat.openai.com/g/g-7WX6sgMcG-love-log-meter-llm",
+        "categories": [
+            "メンタルケア"
+        ]
+    },
+    {
+        "name": "無人島脱出ゲーム",
+        "detail": "超難関脱出ゲーム！君は島から脱出できるか？",
+        "url": "https://chat.openai.com/g/g-1MhfCZajw-wu-ren-dao-tuo-chu-gemu",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "出口王仁三郎 著作集 霊界物語など",
+        "detail": "出口王仁三郎の教えに基づいた精神的な洞察をガイドします。",
+        "url": "https://chat.openai.com/g/g-3UfuRiKYH-chu-kou-wang-ren-san-lang-zhu-zuo-ji-ling-jie-wu-yu-nado",
+        "categories": [
+            "メンタルケア", "教育"
+        ]
+    },
+    {
+        "name": "R.S.P. Janken Master",
+        "detail": "究極のじゃんけんカードゲームです。",
+        "url": "https://chat.openai.com/g/g-D3f0cAoGV",
+        "categories": [
+            "ゲーム"
+        ]
+    },
+    {
+        "name": "料理計算家",
+        "detail": "料理の材料から栄養素を計算し、コメントとダイエット中の方へのアドバイスを提供します。Youtubeのリンクを記載すると概要欄から材料を抽出します。",
+        "url": "https://chat.openai.com/g/g-DB7EGtzyP-liao-li-ji-suan-jia",
+        "categories": [
+            "便利", "教育"
+        ]
+    },
+    {
+        "name": "Guideline Power Navigator",
+        "detail": "質問したい事項が、アップロードしたファイル内に記述されているかいないか、どう記述されているかを回答します。一般論による回答を防いでいることが特徴です。",
+        "url": "https://chat.openai.com/g/g-ucpa02G3e-guideline-power-navigator",
+        "categories": [
+            "ビジネス", "教育"
+        ]
+    },
+    {
+        "name": "Impactful Press Release Creator",
+        "detail": "記事作成のために新聞記者が読みやすい、5w1h、逆三角形などの要素に沿った、プレスリリース文の生成・添削ツールです。",
+        "url": "https://chat.openai.com/g/g-0IATWkg7Z-impactful-press-release-creator",
+        "categories": [
+            "ビジネス", "制作"
+        ]
+    },
+    {
+        "name": "Julius Caesar GPTs",
+        "detail": "ユリウス・カエサル著作「ガリア戦記」から、現代のお悩みをユリウス・カエサルが解決します。",
+        "url": "https://chat.openai.com/g/g-yf2AgjTZi-julius-caesar-bot",
+        "categories": [
+            "教育", "Q&A"
+        ]
+    },
+    {
+        "name": "おいしい時短レシピ - 日本語版",
+        "detail": "おいしい時短レシピ - 日本語版です。",
+        "url": "https://chat.openai.com/g/g-R8aTMdbbm-oisiishi-duan-resipi-ri-ben-yu-ban",
+        "categories": [
+            "便利", "こども用"
+        ]
+    },
+    {
+        "name": "PEC Japan - AI英会話",
+        "detail": "英会話の練習をしましょう。文の構造、文法、語彙の使い方など、日本語で細かく分析します。",
+        "url": "https://chat.openai.com/g/g-wHDTwG9ot-pec-japan-aiying-hui-hua",
+        "categories": [
+            "教育"
+        ]
+    },
+    {
+        "name": "CodeNyan - 自律型プログラミング AI",
+        "detail": "コーディング方法を革新するAIプログラマーです。",
+        "url": "https://chat.openai.com/g/g-AFHvMP8Cf-codenyan-zi-lu-xing-puroguramingu-ai",
+        "categories": [
+            "制作", "エージェント"
+        ]
+    },
+    {
+        "name": "SEO BlogGPT",
+        "detail": "ブログSEO専門ライティングAIです。",
+        "url": "https://chat.openai.com/g/g-CqSxj3cSa-seo-bloggpt",
+        "categories": [
+            "ビジネス", "制作"
+        ]
+    },
+    {
+        "name": "Excelアシスタント",
+        "detail": "Excelについて何でも質問してください。数式、チャート、ピボットテーブル、データの専門家として、カスタマイズされたガイダンスを提供します。",
+        "url": "https://chat.openai.com/g/g-jAWDpEngp-excelasisutanto",
+        "categories": [
+            "ビジネス", "便利"
+        ]
+    }    
 ]
